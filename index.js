@@ -90,6 +90,8 @@ class HyperdeckInstance extends InstanceBase {
 			{ id: 'QuickTimeDNxHD145', label: 'DNxHD 145 QT', family: 'DNx' },
 			{ id: 'DNxHD145', label: 'DNxHD 145 MXF', family: 'DNx' },
 			{ id: 'QuickTimeDNxHD220', label: 'DNxHD 220 QT', family: 'DNxHD220' },
+			{ id: 'DNxHD220x', label: 'MXF DNxHD 220x', family: 'DNxHD220x' },
+			{ id: 'QuickTimeDNxHD220x', label: 'DNxHD 220x QT', family: 'DNxHD220x' },
 			{ id: 'DNxHD220', label: 'MXF DNxHD 220', family: 'DNxHD220' },
 			{ id: 'QuickTimeDNxHR_HQX', label: 'DNxHR HQX QT', family: 'DNxHR_HQX' },
 			{ id: 'DNxHR_HQX', label: 'DNxHR HQX MXF', family: 'DNxHR_HQX' },

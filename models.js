@@ -94,7 +94,7 @@ module.exports.CONFIG_MODELS = {
 		label: 'HyperDeck Shuttle HD',
 		videoInputs: ['HDMI'],
 		audioInputs: ['embedded'],
-		fileFormats: ['prores', 'proxy', 'DNx', 'DNxHD220', 'H.264', 'teleprompter'],
+		fileFormats: ['prores', 'proxy', 'DNx', 'DNxHD220x', 'H.264', 'teleprompter'],
 		slotLabels: 'SD_USB',
 		maxShuttle: 5000,
 	},
